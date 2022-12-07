@@ -289,7 +289,6 @@ button::-moz-focus-inner,
   padding: 0;
   border-style: none;
 }
-
 input[type="radio"],
 input[type="checkbox"] {
   box-sizing: border-box;
@@ -11781,3 +11780,4 @@ body.light-theme .contact-section .footer .links a {
 body.dark-theme {
   background: #212529;
 }
+
